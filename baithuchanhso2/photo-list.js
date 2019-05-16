@@ -1,0 +1,17 @@
+const PHOTO_LIST = [
+    'anh/1.jpg',
+    'anh/2.jpg',
+    'anh/3.jpg',
+    'anh/4.jpg',
+    'anh/5.jpg',
+    'anh/6.jpg',
+    'anh/7.jpg',
+    'anh/8.jpg',
+    'anh/9.jpg',
+    'anh/10.jpg',
+    'anh/11.jpg',
+    'anh/12.jpg',
+    'anh/13.jpg',
+    'anh/14.jpg',
+    'anh/15.jpg',
+]
