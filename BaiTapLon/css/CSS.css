@@ -1,0 +1,41 @@
+﻿body {
+    font-size: 12px;
+    line-height: 1.7em;
+    font-family: Helvetica, Arial, Sans-Serif;
+}
+
+html, body {
+    margin-bottom: 1px;
+}
+
+body {
+    color: #333;
+}
+
+body {
+    background: transparent;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+#main {
+    margin: 0 auto;
+    width: 982px;
+}
+
+#contener {
+    background-color: #0040FF;
+    margin: 0 auto;
+    width: 982px;
+    text-align: justify;
+}
+
+#header {
+    background-image: url(../images/back_top_02.jpg);
+    height: 98px;
+    width: 960px;
+    margin-left: 11px;
+}
+
